@@ -6,7 +6,7 @@ Clone Repository
 ```sh
 git clone https://github.com/rafikaWardah12/remove-duplicate-roboflow.git
 ```
-Tulis perintah dibawah in untuk menginstal depedensi yang di perlukan 
+Write the following command to install the required dependencies.
 ```sh
 npm install
 ```
